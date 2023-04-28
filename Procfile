@@ -1,1 +1,1 @@
-web: gunicorn cryptobot.wsgi --workers 1
+web: gunicorn cryptobot2.wsgi --workers 1
